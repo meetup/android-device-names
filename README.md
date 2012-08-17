@@ -11,6 +11,9 @@ devices' names. An empty value means that they key is already
 user-friendly; just convert the underscores back to spaces and you're
 done.
 
+For more information, check out our [blog post][] announcing the release.
+
 Enjoy!
 
 [docs]: http://developer.android.com/reference/android/os/Build.html#MODEL
+[blog post]: http://making.meetup.com/post/29648976176/human-readble-android-device-names
